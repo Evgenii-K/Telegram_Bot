@@ -3,7 +3,6 @@
 ## Project setup
 ```
 npm install
-npm i node-telegram-bot-api nodemon
 ```
 
 ### Compiles and hot-reloads for development
@@ -11,7 +10,7 @@ npm i node-telegram-bot-api nodemon
 npm run dev
 ```
 
-### Compiles and minifies for production
+### Compiles for production
 ```
 npm run start
 ```
